@@ -1,1 +1,37 @@
-
+{"name":"GainForest",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"GainForest™ is a decentralized fund using artificial intelligence to measure and reward sustainable nature stewardship.",
+"whitePaperLink":"https://docs.gainforest.earth/whitepaper/chapter-zero",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/x31JQi0.png",
+       "source": "image",
+       "link": "https://www.coindesk.com/business/2022/04/21/solana-based-climate-change-project-employs-nftrees-to-save-rainforests/"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://blog.gainforest.earth/img/cop27/bhutan.png",       
+       "source": "image",
+       "link": " https://blog.gainforest.earth/cop27"  },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.technologyrecord.com/Portals/0/EasyDNNNews/8057/940443p512EDNmainimg-Gainforest_9440x443.jpg",     
+       "source": "image",
+       "link": "https://www.technologyrecord.com/Article/gainforest-microsoft-and-the-un-join-on-sustainability-project-83119"  }
+],
+"deleted":false,
+"primaryColor":"#2dce89",
+"twitterHandle":"@gainforestnow",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://uploads-ssl.webflow.com/5fef186f973b9b2aec20edd3/5ff04df324cebadb099cae01_logo.svg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.gainforest.earth/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["NFTs", "Decentralized funding", "Data Storage", "Science DeFi"]
+  
+}
